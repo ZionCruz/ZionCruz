@@ -28,5 +28,5 @@
 ### Where to Find Me
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zion-cruz-a7752a30a/)](https://www.linkedin.com/in/zion-cruz-a7752a30a/)
-[![Gmail Badge](https://img.shields.io/badge/-zthauront@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zthauront@gmail.com)](mailto:zthauront@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-zioncruzdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zioncruzdev@gmail.com)](mailto:zioncruzdev.com)
 [![GitHub](https://img.shields.io/github/followers/ZionCruz?label=follow&style=social)](https://github.com/ZionCruz)
